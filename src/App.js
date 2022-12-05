@@ -104,7 +104,7 @@ function App() {
                     <div>
                       <i className="material-icons text-danger"
                         onClick={() => fnDelete(p.id)}>close</i>
-                        ...
+                           
                       <i className="material-icons text-warning"
                         onClick={() => setIdActual(p.id)}>create</i>
                     </div>
